@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="177" started-at="2020-10-18T12:56:51 IST" finished-at="2020-10-18T12:56:52 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34" started-at="2020-10-18T12:56:51 IST" finished-at="2020-10-18T12:56:51 IST">
+      <class name="TestNG.Day2">
+        <test-method status="PASS" signature="mortageLoan()[pri:0, instance:TestNG.Day2@2b552920]" name="mortageLoan" duration-ms="1" started-at="2020-10-18T12:56:51 IST" finished-at="2020-10-18T12:56:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mortageLoan -->
+        <test-method status="PASS" signature="bikeLoan()[pri:0, instance:TestNG.Day2@2b552920]" name="bikeLoan" is-config="true" duration-ms="0" started-at="2020-10-18T12:56:51 IST" finished-at="2020-10-18T12:56:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bikeLoan -->
+      </class> <!-- TestNG.Day2 -->
+      <class name="TestNG.Day1">
+        <test-method status="PASS" signature="homeLoan()[pri:0, instance:TestNG.Day1@627551fb]" name="homeLoan" is-config="true" duration-ms="6" started-at="2020-10-18T12:56:51 IST" finished-at="2020-10-18T12:56:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeLoan -->
+        <test-method status="PASS" signature="personnelLoan()[pri:0, instance:TestNG.Day1@627551fb]" name="personnelLoan" duration-ms="4" started-at="2020-10-18T12:56:51 IST" finished-at="2020-10-18T12:56:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personnelLoan -->
+      </class> <!-- TestNG.Day1 -->
+    </test> <!-- Test -->
+    <test name="TestNG.Day3" duration-ms="5" started-at="2020-10-18T12:56:51 IST" finished-at="2020-10-18T12:56:52 IST">
+      <class name="TestNG.Day3">
+        <test-method status="PASS" signature="carLoan()[pri:0, instance:TestNG.Day3@1c3a4799]" name="carLoan" duration-ms="2" started-at="2020-10-18T12:56:51 IST" finished-at="2020-10-18T12:56:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carLoan -->
+      </class> <!-- TestNG.Day3 -->
+    </test> <!-- TestNG.Day3 -->
+  </suite> <!-- Suite -->
+</testng-results>
